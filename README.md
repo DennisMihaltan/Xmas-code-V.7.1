@@ -5,7 +5,7 @@ A cool Christmas code for your loved ones
 
 1. Change the names from "Name1" to "Name11".
 2. Modify the "Messages" for any option
-3. Choose some funny images about your loved ones
+3. Choose some funny images about your loved ones (you can choose a song in .mp3)
 4. Put the images on the same directory of this project
 5. At the end of the program, modify the name of the images, for example:
 
