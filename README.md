@@ -3,8 +3,7 @@ A cool Christmas code for your loved ones, with a final surprise!!!
 
 **INSTRUCTIONS:**
 
-(the code is on "Origine.cpp")
-(you can see an output example on "Image.png")
+(the code is on "Origine.cpp", you can see an output example on "Image.png"
 
 1. Change the names from "Name1" to "Name11".
 2. Modify the "Messages" for any option
