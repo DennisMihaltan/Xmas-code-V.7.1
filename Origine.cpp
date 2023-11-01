@@ -22,7 +22,7 @@ int main() {
         printf(" [e] Name5    [j] Name10                \n\n\n");
 
         
-        cout << "Qual'è la lettera corrispondente al tuo nome?: ";
+        cout << "Digita la lettera corrispondente al tuo nome: ";
         char lettera;
         cin >> lettera;
 
