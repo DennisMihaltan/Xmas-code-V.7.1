@@ -2,7 +2,7 @@
 **A cool Christmas code for your loved ones, with a final surprise!!!**
 
 
-![Image](https://github.com/DennisMihaltan/Xmas-code-V.7.1/assets/91375692/72164d18-89c4-4eda-ad82-66004ae43f18)
+![image](https://github.com/DennisMihaltan/Xmas-code-V.7.1/assets/91375692/5a050ea4-fa0a-4212-8e60-74af544a34cb)
 
 
 **INSTRUCTIONS:**
