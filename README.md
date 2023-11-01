@@ -3,6 +3,8 @@ A cool Christmas code for your loved ones
 
 **INSTRUCTIONS:**
 
+(the code is on "Origine.cpp")
+
 1. Change the names from "Name1" to "Name11".
 2. Modify the "Messages" for any option
 3. Choose some funny images about your loved ones (you can choose a song in .mp3)
