@@ -1,9 +1,13 @@
 # Xmas-code-V.7.1
 A cool Christmas code for your loved ones, with a final surprise!!!
 
+
+![Image](https://github.com/DennisMihaltan/Xmas-code-V.7.1/assets/91375692/72164d18-89c4-4eda-ad82-66004ae43f18)
+
+
 **INSTRUCTIONS:**
 
-(the code is on "Origine.cpp", you can see an output example on "Image.png"
+(the code is on "Origine.cpp")
 
 1. Change the names from "Name1" to "Name11".
 2. Modify the "Messages" for any option
